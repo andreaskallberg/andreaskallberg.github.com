@@ -9,18 +9,44 @@ title: My first blog entry
 <p class="meta">Foo</p>
 First naive try-out of creating a github pages site based on jekyll. Source mostly stolen from Tom (https://github.com/mojombo/mojombo.github.com)
 <pre>
-just pre
+object Foo {
+  def foo(arg: String) : String = {
+    val v = "foo"
+    println(v)
+    v
+  }
+}
 </pre>
 <br/>
 <code>
-just code
+object Foo {
+  def foo(arg: String) : String = {
+    val v = "foo"
+    println(v)
+    v
+  }
+}
+
 </code>
 <br/>
 <pre class="terminal">
-pre with terminal
+object Foo {
+  def foo(arg: String) : String = {
+    val v = "foo"
+    println(v)
+    v
+  }
+}
 </pre>
 <pre class="terminal">
 <code>
-pre with terminal and nested code
+object Foo {
+  def foo(arg: String) : String = {
+    val v = "foo"
+    println(v)
+    v
+  }
+}
+
 </code>
 </pre>
